@@ -1,6 +1,6 @@
 const heading = document.body.querySelector("h1");
 console.log(heading);
-
+console.log("I have made some chages here!");
 
 function addClassRed(){
     heading.classList.add("red");
